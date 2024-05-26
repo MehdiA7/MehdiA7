@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehdiA7
 - 👀 I’m interested in code
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA & Py
 - 📫 How to reach me discord mehdi4000
 
 <!---
