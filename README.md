@@ -1,3 +1,7 @@
+┏┓┏┓┳┓┏┓┏┓
+┃┓┃┃┃┃┣.┣.
+┗┛┗┛┗┛┗┛┻.
+
 - 👋 Hi, I’m @MehdiA7
 - 👀 I’m interested in code
 - 🌱 I’m currently learning Python and JS !
